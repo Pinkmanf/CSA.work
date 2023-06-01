@@ -1,4 +1,4 @@
-public class Main {
+public class Work52 {
     public static void main(String[] args) {
         int[] arr = {5, 2, 8, 12, 1, 6, 3};
         bubbleSort(arr);
